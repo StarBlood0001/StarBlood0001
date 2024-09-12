@@ -6580,11 +6580,6 @@ https://stream.hownetwork.xyz/yyy/make-shudder-2-shudder-mae-nak-2014-webdl/8/48
 #EXTINF:-1  group-title="SHAREEXT@THAILAND_MOVIES"  tvg-logo="https://www.gscmovies.com.my/wp-content/uploads/2015/04/MMS3-Poster-27x39-copy4.jpg", Make Me Shudder 3(2024) 
 https://hls036.vipdracdn.net/streamhls2024/a8268bca3ea79df6979952bfab785fa0/ep.1.v0.1678195246.720.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/05/film-river-2023-lk21-d21.jpg.webp" group-title="SHAREEXT@JAPAN_MOVIES",River (2023)
 https://stream.hownetwork.xyz/xxx/river-2023-bluray_X_869272af.480/22/480.m3u8
 
@@ -10875,10 +10870,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959796
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959802
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brGqsz12/SHAREEXT-BATMAN-FOREVER.jpg" group-title="SHAREEXT@Film Bioskop",It's Okay to Not Be Okay (2020)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959757
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hhXpjd/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@VOD MOVIE ALL",JOKER (2018)
 https://www.googleapis.com/drive/v3/files/1hSy4C4GNuXzkTSoynyU3rp0Tx5qoDGB9?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hhXpjd/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@VOD MOVIE ALL",NIGHT AT THE MUSEUM: SECRET OF THE TOMB (2014)
@@ -11902,6 +11893,8 @@ https://webhdrunns.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://lewbli
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://lewblivehdplay.ru
 
+#####======######INDOSIAR#####=====########
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -11909,6 +11902,11 @@ https://webhdrunns.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://lewbli
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="National",Indosiar(@)
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="National",Indosiar (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #######======#########playlisttambahanchannelUSA#####======######
 
@@ -11980,7 +11978,3 @@ https://webhdrunns.mizhls.ru/lb/premium376/index.m3u8|referer=https://lewblivehd
 https://webhdrunns.mizhls.ru/lb/premium655/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="YES Network USA" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="USA TV",YES Network USA
 https://webhdrunns.mizhls.ru/lb/premium763/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="5 USA" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="USA TV",5 USA
-https://webhdrunns.mizhls.ru/lb/premium360/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#####======###
